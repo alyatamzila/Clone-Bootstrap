@@ -1,0 +1,17 @@
+.bg-pink{
+    background-color: rgb(207, 63, 111) !important;
+}
+#main a {
+    color: rgb(160, 160, 230);
+}
+#main  a:hover {
+    color: rgb(140, 123, 123);
+}
+#footer a {
+    text-decoration: none;
+    color: black;
+}
+#footer a:hover{
+    text-decoration: underline;
+    color: var(--bs-primary) !important;
+}
